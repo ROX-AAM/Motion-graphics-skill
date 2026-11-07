@@ -1,0 +1,10 @@
+{
+  "assets": [
+    {"path": "assets/fonts/LilitaOne-Regular.ttf", "source": "https://github.com/google/fonts/tree/main/ofl/lilitaone", "author": "Juan Montoreano", "license": "SIL OFL 1.1 (commercial use OK)", "use": "final", "used_in": "captions, stickers"},
+    {"path": "assets/fonts/Fredoka-Variable.ttf", "source": "https://github.com/google/fonts/tree/main/ofl/fredoka", "author": "Milena Brandao, Hafontia", "license": "SIL OFL 1.1 (commercial use OK)", "use": "final", "used_in": "otter video caption"},
+    {"path": "assets/vo/vo_v1.wav", "source": "generated locally with Kokoro-82M (kokoro-onnx), voice af_bella, speed 1.05", "author": "hexgrad/Kokoro-82M", "license": "Apache-2.0 model; generated audio free to use", "use": "final", "used_in": "voiceover 0-60 s"},
+    {"path": "assets/sfx/*.wav", "source": "synthesized in code (scripts/mix.py)", "author": "this project", "license": "own work", "use": "final"},
+    {"path": "assets/music/music_v1.wav", "source": "synthesized in code (scripts/mix.py), 120 BPM", "author": "this project", "license": "own work", "use": "final"},
+    {"path": "src/*.js", "source": "all illustration and animation drawn in code (Canvas 2D)", "author": "this project", "license": "own work", "use": "final"}
+  ]
+}
