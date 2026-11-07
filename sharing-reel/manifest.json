@@ -1,0 +1,9 @@
+{
+  "assets": [
+    {"path": "assets/fonts/LilitaOne-Regular.ttf", "source": "https://github.com/google/fonts/tree/main/ofl/lilitaone", "license": "SIL OFL 1.1", "use": "final"},
+    {"path": "assets/fonts/Fredoka-Variable.ttf", "source": "https://github.com/google/fonts/tree/main/ofl/fredoka", "license": "SIL OFL 1.1", "use": "final"},
+    {"path": "assets/vo/vo_v1.wav", "source": "Kokoro-82M (kokoro-onnx) local TTS: narrator af_heart @0.85, Tutu am_puck @1.0 pitch-shifted x1.32 (rubberband)", "license": "Apache-2.0 model; generated audio free to use", "use": "final"},
+    {"path": "assets/sfx/*.wav, assets/music/music_v1.wav", "source": "synthesized in code (scripts/mix.py)", "license": "own work", "use": "final"},
+    {"path": "src/*.js", "source": "original characters Tutu & Misti and all art drawn in code (Canvas 2D)", "license": "own work", "use": "final"}
+  ]
+}
