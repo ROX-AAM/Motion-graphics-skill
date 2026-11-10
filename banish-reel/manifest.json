@@ -1,0 +1,9 @@
+{
+  "assets": [
+    {"path": "assets/fonts/Anton-Regular.ttf", "source": "https://github.com/google/fonts/tree/main/ofl/anton", "license": "SIL OFL 1.1", "use": "final (captions)"},
+    {"path": "assets/fonts/Fredoka-Variable.ttf, LilitaOne-Regular.ttf", "source": "google/fonts (OFL)", "license": "SIL OFL 1.1", "use": "final (UI text)"},
+    {"path": "assets/vo/vo_v1.wav", "source": "Kokoro-82M local TTS: narrator am_fenrir, boss am_onyx (pitch x0.94), inner voice am_puck (x1.04); overall speed x1.127", "license": "Apache-2.0 model; generated audio free to use", "use": "final"},
+    {"path": "assets/sfx/*.wav, assets/music/music_v1.wav", "source": "synthesized in code (scripts/mix.py)", "license": "own work", "use": "final"},
+    {"path": "src/*.js", "source": "all characters and motion graphics drawn in code (Canvas 2D)", "license": "own work", "use": "final"}
+  ]
+}
