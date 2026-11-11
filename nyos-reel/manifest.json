@@ -1,0 +1,9 @@
+{
+  "assets": [
+    {"path": "assets/fonts/Anton-Regular.ttf", "source": "https://github.com/google/fonts/tree/main/ofl/anton", "license": "SIL OFL 1.1", "use": "final (captions, labels)"},
+    {"path": "assets/vo/vo_v1.wav", "source": "Kokoro-82M local TTS, voice am_fenrir @1.0 ('Nyos' spoken as 'Nee-ohss')", "license": "Apache-2.0 model; generated audio free to use", "use": "final"},
+    {"path": "assets/sfx/*.wav, assets/music/music_v1.wav", "source": "synthesized in code (scripts/mix.py)", "license": "own work", "use": "final"},
+    {"path": "src/*.js", "source": "all art drawn in code (Canvas 2D)", "license": "own work", "use": "final"}
+  ],
+  "facts": ["Lake Nyos limnic eruption: 21 August 1986, Cameroon; 1,746 people and ~3,500 livestock died (commonly cited)", "Degassing pipes installed from 2001"]
+}
