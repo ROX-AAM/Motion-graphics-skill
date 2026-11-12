@@ -1,0 +1,22 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face { font-family: 'Lilita'; src: url('../assets/fonts/LilitaOne-Regular.ttf'); }
+@font-face { font-family: 'Fredoka'; src: url('../assets/fonts/Fredoka-Variable.ttf'); font-weight: 300 700; }
+html, body { margin: 0; background: #000; overflow: hidden; }
+canvas { display: block; }
+</style>
+<script type="importmap">{ "imports": { "three": "../node_modules/three/build/three.module.js", "three/addons/": "../node_modules/three/examples/jsm/" } }</script>
+</head>
+<body><canvas id="c"></canvas>
+<script src="lib.js"></script>
+<script src="art2d.js"></script>
+<script>
+window.SCALE = window.SCALE || 1;
+const CANVAS = document.getElementById('c');
+CANVAS.width = Math.round(W * SCALE); CANVAS.height = Math.round(H * SCALE);
+const CTX = CANVAS.getContext('2d');
+document.fonts.load('100px Lilita');
+</script>
+<script type="module" src="world.js"></script>
+</body></html>
