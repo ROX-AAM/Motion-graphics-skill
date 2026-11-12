@@ -1,0 +1,292 @@
+[
+ {
+  "t": 0.1,
+  "type": "whoosh",
+  "gain": 0.4
+ },
+ {
+  "t": 0.4,
+  "type": "whoosh",
+  "gain": 0.4
+ },
+ {
+  "t": 2.807,
+  "type": "clank",
+  "gain": 0.5
+ },
+ {
+  "t": 3.159,
+  "type": "stamp",
+  "gain": 0.6
+ },
+ {
+  "t": 3.903,
+  "type": "boom",
+  "gain": 0.7
+ },
+ {
+  "t": 4.741,
+  "type": "scratch",
+  "gain": 0.8
+ },
+ {
+  "t": 4.841,
+  "type": "oink",
+  "gain": 0.8
+ },
+ {
+  "t": 7.424,
+  "type": "pop",
+  "gain": 0.5
+ },
+ {
+  "t": 8.63,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 8.95,
+  "type": "stamp",
+  "gain": 0.7
+ },
+ {
+  "t": 10.437,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 14.613,
+  "type": "pop",
+  "gain": 0.5
+ },
+ {
+  "t": 14.913,
+  "type": "pop",
+  "gain": 0.5
+ },
+ {
+  "t": 16.29,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 19.944,
+  "type": "thunder",
+  "gain": 0.5
+ },
+ {
+  "t": 21.36,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 24.182,
+  "type": "oink",
+  "gain": 0.6
+ },
+ {
+  "t": 25.082,
+  "type": "dig",
+  "gain": 0.5,
+  "dur": 2.2
+ },
+ {
+  "t": 27.023,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 27.243,
+  "type": "boing",
+  "gain": 0.5
+ },
+ {
+  "t": 27.443,
+  "type": "dig",
+  "gain": 0.4,
+  "dur": 1.4
+ },
+ {
+  "t": 28.72,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 29.723,
+  "type": "pop",
+  "gain": 0.5
+ },
+ {
+  "t": 30.58,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 31.374,
+  "type": "clank",
+  "gain": 0.5
+ },
+ {
+  "t": 32.733,
+  "type": "gunshot",
+  "gain": 0.55
+ },
+ {
+  "t": 33.263,
+  "type": "chime",
+  "gain": 0.4
+ },
+ {
+  "t": 33.56,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 34.805,
+  "type": "boing",
+  "gain": 0.4
+ },
+ {
+  "t": 36.806,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 37.026,
+  "type": "march",
+  "gain": 0.5,
+  "dur": 1.6
+ },
+ {
+  "t": 39.423,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 39.643,
+  "type": "horn",
+  "gain": 0.6
+ },
+ {
+  "t": 41.175,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 42.75,
+  "type": "pop",
+  "gain": 0.5
+ },
+ {
+  "t": 42.9,
+  "type": "tick",
+  "gain": 0.4
+ },
+ {
+  "t": 44.95,
+  "type": "pop",
+  "gain": 0.4
+ },
+ {
+  "t": 46.41,
+  "type": "pop",
+  "gain": 0.5
+ },
+ {
+  "t": 49.5,
+  "type": "pop",
+  "gain": 0.4
+ },
+ {
+  "t": 50.766,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 50.886,
+  "type": "oink",
+  "gain": 0.6
+ },
+ {
+  "t": 53.45,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 57.611,
+  "type": "pop",
+  "gain": 0.4
+ },
+ {
+  "t": 60.596,
+  "type": "boing",
+  "gain": 0.4
+ },
+ {
+  "t": 61.826,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 63.616,
+  "type": "cricket",
+  "gain": 0.4,
+  "dur": 1.3
+ },
+ {
+  "t": 65.207,
+  "type": "pop",
+  "gain": 0.4
+ },
+ {
+  "t": 66.296,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 66.516,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 68.94,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 71.136,
+  "type": "fanfare",
+  "gain": 0.5
+ },
+ {
+  "t": 72.526,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 73.046,
+  "type": "pop",
+  "gain": 0.5
+ },
+ {
+  "t": 74.346,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 74.466,
+  "type": "drumroll",
+  "gain": 0.6,
+  "dur": 2.0509999999999904
+ },
+ {
+  "t": 76.567,
+  "type": "stamp",
+  "gain": 0.8
+ },
+ {
+  "t": 78.65,
+  "type": "trombone",
+  "gain": 0.6
+ }
+]

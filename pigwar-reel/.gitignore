@@ -1,0 +1,8 @@
+.env
+*.env
+node_modules
+models
+cache
+renders/previews
+assets/vo/
+renders/
