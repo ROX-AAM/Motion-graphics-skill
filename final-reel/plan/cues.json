@@ -1,0 +1,151 @@
+[
+ {
+  "t": 0.15,
+  "type": "powerup",
+  "gain": 0.5
+ },
+ {
+  "t": 0.4,
+  "type": "counter",
+  "gain": 0.4,
+  "dur": 0.89
+ },
+ {
+  "t": 1.39,
+  "type": "heart",
+  "gain": 0.7,
+  "dur": 1.896
+ },
+ {
+  "t": 3.286,
+  "type": "boom",
+  "gain": 0.8
+ },
+ {
+  "t": 4.24,
+  "type": "crowd",
+  "gain": 0.55,
+  "dur": 17.560000000000002
+ },
+ {
+  "t": 4.39,
+  "type": "whoosh",
+  "gain": 0.5
+ },
+ {
+  "t": 7.601,
+  "type": "stamp",
+  "gain": 0.5
+ },
+ {
+  "t": 10.242,
+  "type": "clank",
+  "gain": 0.8
+ },
+ {
+  "t": 11.061,
+  "type": "thud",
+  "gain": 0.6
+ },
+ {
+  "t": 11.111,
+  "type": "oohs",
+  "gain": 0.6
+ },
+ {
+  "t": 11.68,
+  "type": "heart",
+  "gain": 0.5,
+  "dur": 3.0020000000000007
+ },
+ {
+  "t": 13.498,
+  "type": "thud",
+  "gain": 0.3
+ },
+ {
+  "t": 13.998,
+  "type": "thud",
+  "gain": 0.2
+ },
+ {
+  "t": 14.682,
+  "type": "kick",
+  "gain": 0.9
+ },
+ {
+  "t": 15.479,
+  "type": "netswish",
+  "gain": 0.8
+ },
+ {
+  "t": 15.879,
+  "type": "roar",
+  "gain": 0.9
+ },
+ {
+  "t": 15.929,
+  "type": "boom",
+  "gain": 0.7
+ },
+ {
+  "t": 16.686,
+  "type": "clunk",
+  "gain": 0.7
+ },
+ {
+  "t": 17.835,
+  "type": "roar",
+  "gain": 0.7
+ },
+ {
+  "t": 17.935,
+  "type": "firework",
+  "gain": 0.5
+ },
+ {
+  "t": 18.385,
+  "type": "firework",
+  "gain": 0.5
+ },
+ {
+  "t": 18.835,
+  "type": "firework",
+  "gain": 0.5
+ },
+ {
+  "t": 19.285,
+  "type": "firework",
+  "gain": 0.5
+ },
+ {
+  "t": 19.735,
+  "type": "firework",
+  "gain": 0.5
+ },
+ {
+  "t": 19.8,
+  "type": "pop",
+  "gain": 0.6
+ },
+ {
+  "t": 20.185,
+  "type": "firework",
+  "gain": 0.5
+ },
+ {
+  "t": 20.635,
+  "type": "firework",
+  "gain": 0.5
+ },
+ {
+  "t": 20.7,
+  "type": "click",
+  "gain": 0.7
+ },
+ {
+  "t": 20.75,
+  "type": "bell",
+  "gain": 0.7
+ }
+]
