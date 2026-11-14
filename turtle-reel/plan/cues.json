@@ -1,0 +1,191 @@
+[
+ {
+  "t": 0,
+  "type": "shore",
+  "gain": 0.5,
+  "dur": 73.798
+ },
+ {
+  "t": 3.899,
+  "type": "chime",
+  "gain": 0.5
+ },
+ {
+  "t": 5.777,
+  "type": "whoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 6.292,
+  "type": "crash",
+  "gain": 0.7
+ },
+ {
+  "t": 7.166,
+  "type": "crash",
+  "gain": 0.7
+ },
+ {
+  "t": 7.166,
+  "type": "crash",
+  "gain": 0.7
+ },
+ {
+  "t": 9.69,
+  "type": "rise",
+  "gain": 0.3
+ },
+ {
+  "t": 15.983,
+  "type": "sandshift",
+  "gain": 0.6,
+  "dur": 4.228999999999999
+ },
+ {
+  "t": 19.512,
+  "type": "pop",
+  "gain": 0.5
+ },
+ {
+  "t": 21.906,
+  "type": "tick",
+  "gain": 0.4
+ },
+ {
+  "t": 30.808,
+  "type": "patter",
+  "gain": 0.35,
+  "dur": 1.6199999999999974
+ },
+ {
+  "t": 32.428,
+  "type": "clack",
+  "gain": 0.5
+ },
+ {
+  "t": 32.928,
+  "type": "clack",
+  "gain": 0.4
+ },
+ {
+  "t": 34.309,
+  "type": "patter",
+  "gain": 0.35,
+  "dur": 4.039999999999999
+ },
+ {
+  "t": 35.873,
+  "type": "gull",
+  "gain": 0.6
+ },
+ {
+  "t": 36.073,
+  "type": "swoosh",
+  "gain": 0.4
+ },
+ {
+  "t": 38.349,
+  "type": "boom",
+  "gain": 0.35
+ },
+ {
+  "t": 40.875,
+  "type": "patter",
+  "gain": 0.35,
+  "dur": 1.125
+ },
+ {
+  "t": 44.382,
+  "type": "patter",
+  "gain": 0.3,
+  "dur": 1.2
+ },
+ {
+  "t": 46.139,
+  "type": "crash",
+  "gain": 0.85
+ },
+ {
+  "t": 47.589,
+  "type": "thud",
+  "gain": 0.4
+ },
+ {
+  "t": 48.698,
+  "type": "boing",
+  "gain": 0.35
+ },
+ {
+  "t": 50.473,
+  "type": "swoosh",
+  "gain": 0.35
+ },
+ {
+  "t": 50.973,
+  "type": "thud",
+  "gain": 0.3
+ },
+ {
+  "t": 52.609,
+  "type": "crash",
+  "gain": 0.8
+ },
+ {
+  "t": 54.322,
+  "type": "thud",
+  "gain": 0.4
+ },
+ {
+  "t": 58.203,
+  "type": "heart",
+  "gain": 0.4,
+  "dur": 3.2579999999999956
+ },
+ {
+  "t": 62.596,
+  "type": "sparkle",
+  "gain": 0.5
+ },
+ {
+  "t": 64.994,
+  "type": "patter",
+  "gain": 0.35,
+  "dur": 2.0060000000000002
+ },
+ {
+  "t": 70.169,
+  "type": "swell",
+  "gain": 0.6
+ },
+ {
+  "t": 73.698,
+  "type": "splash",
+  "gain": 0.7
+ },
+ {
+  "t": 73.798,
+  "type": "underwater",
+  "gain": 0.6,
+  "dur": 10.201999999999998
+ },
+ {
+  "t": 75.124,
+  "type": "sparkle",
+  "gain": 0.5
+ },
+ {
+  "t": 82,
+  "type": "pop",
+  "gain": 0.6
+ },
+ {
+  "t": 82.9,
+  "type": "click",
+  "gain": 0.7
+ },
+ {
+  "t": 82.95,
+  "type": "bell",
+  "gain": 0.7
+ }
+]

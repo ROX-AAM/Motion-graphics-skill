@@ -1,0 +1,10 @@
+{
+  "assets": [
+    {"path": "assets/vo/vo_v1.wav", "source": "Kokoro-82M local TTS, male voice am_fenrir (no user voiceover was attached)", "license": "Apache-2.0 model; generated audio free to use", "use": "final"},
+    {"path": "assets/fonts/LilitaOne-Regular.ttf", "source": "google/fonts (OFL)", "license": "SIL OFL 1.1", "use": "final"},
+    {"path": "node_modules/three", "source": "three.js r187 (npm)", "license": "MIT", "use": "3D renderer"},
+    {"path": "assets/sfx/*.wav, assets/music/music_v1.wav", "source": "synthesized in code (scripts/mix.py)", "license": "own work", "use": "final"},
+    {"path": "src/*.js", "source": "generic 2D player cards (no real faces, crests, logos or trophy design) in a procedural Three.js stadium", "license": "own work", "use": "final"}
+  ],
+  "facts": ["2026 FIFA World Cup final, 19 July 2026: Spain 1-0 Argentina (a.e.t.), Ferran Torres 106'; Spain's second title, first since 2010 (verified: FIFA, Sky Sports, Al Jazeera, Olympics.com)"]
+}

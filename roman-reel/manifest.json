@@ -1,0 +1,9 @@
+{
+  "assets": [
+    {"path": "assets/fonts/Cinzel-Variable.ttf", "source": "https://github.com/google/fonts/tree/main/ofl/cinzel", "license": "SIL OFL 1.1", "use": "final (captions, plaques)"},
+    {"path": "assets/fonts/Fredoka-Variable.ttf", "source": "google/fonts (OFL)", "license": "SIL OFL 1.1", "use": "final ('Pb' symbol)"},
+    {"path": "assets/vo/vo_v1.wav", "source": "Kokoro-82M local TTS, voice af_heart @0.9 ('cerussa' spoken as 'suh-russa')", "license": "Apache-2.0 model; generated audio free to use", "use": "final"},
+    {"path": "assets/sfx/*.wav, assets/music/music_v1.wav", "source": "synthesized in code (scripts/mix.py)", "license": "own work", "use": "final"},
+    {"path": "src/*.js", "source": "all art drawn in code incl. procedural marble (Canvas 2D)", "license": "own work", "use": "final"}
+  ]
+}

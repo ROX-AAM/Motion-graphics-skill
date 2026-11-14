@@ -1,0 +1,193 @@
+[
+ {
+  "t": 0.15,
+  "type": "chime",
+  "gain": 0.5
+ },
+ {
+  "t": 1.299,
+  "type": "swoosh",
+  "gain": 0.4
+ },
+ {
+  "t": 3.546,
+  "type": "cash",
+  "gain": 0.5
+ },
+ {
+  "t": 6.96,
+  "type": "brush",
+  "gain": 0.5,
+  "dur": 4.538999999999999
+ },
+ {
+  "t": 10.749,
+  "type": "pop",
+  "gain": 0.4
+ },
+ {
+  "t": 12.569,
+  "type": "boom",
+  "gain": 0.5
+ },
+ {
+  "t": 12.669,
+  "type": "drone",
+  "gain": 0.4,
+  "dur": 2.2
+ },
+ {
+  "t": 14.8,
+  "type": "whoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 16.709,
+  "type": "chime",
+  "gain": 0.6
+ },
+ {
+  "t": 18.182,
+  "type": "clank",
+  "gain": 0.5
+ },
+ {
+  "t": 20.004,
+  "type": "bubble",
+  "gain": 0.5,
+  "dur": 2.558
+ },
+ {
+  "t": 22.312,
+  "type": "whoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 23.162,
+  "type": "brush",
+  "gain": 0.5,
+  "dur": 1.2
+ },
+ {
+  "t": 24.086,
+  "type": "tick",
+  "gain": 0.5
+ },
+ {
+  "t": 24.586,
+  "type": "tick",
+  "gain": 0.4
+ },
+ {
+  "t": 25.641,
+  "type": "whoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 25.791,
+  "type": "boom",
+  "gain": 0.45
+ },
+ {
+  "t": 26.291,
+  "type": "drone",
+  "gain": 0.45,
+  "dur": 3
+ },
+ {
+  "t": 29.8,
+  "type": "whoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 30.883,
+  "type": "chime",
+  "gain": 0.4
+ },
+ {
+  "t": 32.576,
+  "type": "crack",
+  "gain": 0.6
+ },
+ {
+  "t": 33.777,
+  "type": "swoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 35.698,
+  "type": "boom",
+  "gain": 0.4
+ },
+ {
+  "t": 37.753,
+  "type": "swoosh",
+  "gain": 0.35
+ },
+ {
+  "t": 40.475,
+  "type": "brush",
+  "gain": 0.6,
+  "dur": 2.8310000000000017
+ },
+ {
+  "t": 43.206,
+  "type": "rise",
+  "gain": 0.45
+ },
+ {
+  "t": 44.155,
+  "type": "boom",
+  "gain": 0.6
+ },
+ {
+  "t": 44.8,
+  "type": "whoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 46.043,
+  "type": "swoosh",
+  "gain": 0.4
+ },
+ {
+  "t": 47.395,
+  "type": "pop",
+  "gain": 0.5
+ },
+ {
+  "t": 47.935,
+  "type": "whoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 48.585,
+  "type": "thud",
+  "gain": 0.6
+ },
+ {
+  "t": 48.685,
+  "type": "clank",
+  "gain": 0.4
+ },
+ {
+  "t": 50.682,
+  "type": "whoosh",
+  "gain": 0.3
+ },
+ {
+  "t": 52.596,
+  "type": "rise",
+  "gain": 0.5
+ },
+ {
+  "t": 53.596,
+  "type": "boom",
+  "gain": 0.8
+ },
+ {
+  "t": 55.275,
+  "type": "chime",
+  "gain": 0.5
+ }
+]

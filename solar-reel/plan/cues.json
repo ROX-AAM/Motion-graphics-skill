@@ -1,0 +1,275 @@
+[
+ {
+  "t": 0,
+  "type": "birds",
+  "gain": 0.15,
+  "dur": 4.464
+ },
+ {
+  "t": 4.364,
+  "type": "powerdown",
+  "gain": 0.5
+ },
+ {
+  "t": 5.908,
+  "type": "boing",
+  "gain": 0.5
+ },
+ {
+  "t": 10.53,
+  "type": "swoosh",
+  "gain": 0.4
+ },
+ {
+  "t": 12.258,
+  "type": "shimmer",
+  "gain": 0.5
+ },
+ {
+  "t": 13.345,
+  "type": "zips",
+  "gain": 0.5,
+  "dur": 1.6
+ },
+ {
+  "t": 14.512,
+  "type": "hum",
+  "gain": 0.3,
+  "dur": 3.710000000000001
+ },
+ {
+  "t": 19.839,
+  "type": "pop",
+  "gain": 0.5
+ },
+ {
+  "t": 19.939,
+  "type": "fan",
+  "gain": 0.35,
+  "dur": 4.949999999999999
+ },
+ {
+  "t": 22.629,
+  "type": "tick",
+  "gain": 0.4
+ },
+ {
+  "t": 24.889,
+  "type": "clink",
+  "gain": 0.35
+ },
+ {
+  "t": 25.009,
+  "type": "clink",
+  "gain": 0.35
+ },
+ {
+  "t": 25.129,
+  "type": "clink",
+  "gain": 0.35
+ },
+ {
+  "t": 25.249,
+  "type": "clink",
+  "gain": 0.35
+ },
+ {
+  "t": 25.369,
+  "type": "clink",
+  "gain": 0.35
+ },
+ {
+  "t": 25.489,
+  "type": "clink",
+  "gain": 0.35
+ },
+ {
+  "t": 25.609,
+  "type": "clink",
+  "gain": 0.35
+ },
+ {
+  "t": 25.729,
+  "type": "clink",
+  "gain": 0.35
+ },
+ {
+  "t": 25.849,
+  "type": "clink",
+  "gain": 0.35
+ },
+ {
+  "t": 25.969,
+  "type": "clink",
+  "gain": 0.35
+ },
+ {
+  "t": 26.472,
+  "type": "pop",
+  "gain": 0.3
+ },
+ {
+  "t": 26.876,
+  "type": "pop",
+  "gain": 0.3
+ },
+ {
+  "t": 27.279,
+  "type": "pop",
+  "gain": 0.3
+ },
+ {
+  "t": 27.683,
+  "type": "pop",
+  "gain": 0.3
+ },
+ {
+  "t": 28.086,
+  "type": "pop",
+  "gain": 0.3
+ },
+ {
+  "t": 28.489,
+  "type": "pop",
+  "gain": 0.3
+ },
+ {
+  "t": 28.893,
+  "type": "pop",
+  "gain": 0.3
+ },
+ {
+  "t": 29.297,
+  "type": "pop",
+  "gain": 0.3
+ },
+ {
+  "t": 31.205,
+  "type": "zips",
+  "gain": 0.4,
+  "dur": 1.4
+ },
+ {
+  "t": 33.373,
+  "type": "wobble",
+  "gain": 0.4,
+  "dur": 1.5
+ },
+ {
+  "t": 35.504,
+  "type": "stamp",
+  "gain": 0.8
+ },
+ {
+  "t": 37.259,
+  "type": "wobble",
+  "gain": 0.35,
+  "dur": 1.4
+ },
+ {
+  "t": 40.259,
+  "type": "flipflop",
+  "gain": 0.45,
+  "dur": 3.7409999999999997
+ },
+ {
+  "t": 44.979,
+  "type": "yawn",
+  "gain": 0.5
+ },
+ {
+  "t": 45.379,
+  "type": "steps",
+  "gain": 0.3,
+  "dur": 1.2
+ },
+ {
+  "t": 46.196,
+  "type": "crickets",
+  "gain": 0.35,
+  "dur": 2.693000000000005
+ },
+ {
+  "t": 48.889,
+  "type": "chime",
+  "gain": 0.45
+ },
+ {
+  "t": 51.755,
+  "type": "tick",
+  "gain": 0.4
+ },
+ {
+  "t": 52.055,
+  "type": "counter",
+  "gain": 0.4,
+  "dur": 2
+ },
+ {
+  "t": 54.9,
+  "type": "powerdown",
+  "gain": 0.7
+ },
+ {
+  "t": 56.952,
+  "type": "wrench",
+  "gain": 0.35,
+  "dur": 2.6200000000000045
+ },
+ {
+  "t": 59.872,
+  "type": "alarm",
+  "gain": 0.35,
+  "dur": 4.212999999999991
+ },
+ {
+  "t": 63.035,
+  "type": "zap",
+  "gain": 0.6
+ },
+ {
+  "t": 64.285,
+  "type": "shield",
+  "gain": 0.6
+ },
+ {
+  "t": 68.807,
+  "type": "thud",
+  "gain": 0.5
+ },
+ {
+  "t": 70.243,
+  "type": "clunk",
+  "gain": 0.7
+ },
+ {
+  "t": 71.514,
+  "type": "powerup",
+  "gain": 0.6
+ },
+ {
+  "t": 74,
+  "type": "chime",
+  "gain": 0.4
+ },
+ {
+  "t": 77.694,
+  "type": "ding",
+  "gain": 0.5
+ },
+ {
+  "t": 78,
+  "type": "pop",
+  "gain": 0.6
+ },
+ {
+  "t": 78.9,
+  "type": "click",
+  "gain": 0.7
+ },
+ {
+  "t": 78.95,
+  "type": "bell",
+  "gain": 0.7
+ }
+]
