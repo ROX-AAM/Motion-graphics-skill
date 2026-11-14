@@ -1,0 +1,9 @@
+{
+  "assets": [
+    {"path": "assets/vo/vo_v1.wav", "source": "Kokoro-82M local TTS, voice af_bella @1.1 (no user voiceover was attached)", "license": "Apache-2.0 model; generated audio free to use", "use": "final"},
+    {"path": "assets/fonts/LilitaOne-Regular.ttf", "source": "google/fonts (OFL)", "license": "SIL OFL 1.1", "use": "final"},
+    {"path": "node_modules/three", "source": "three.js r187 (npm)", "license": "MIT", "use": "3D renderer"},
+    {"path": "assets/sfx/*.wav, assets/music/music_v1.wav", "source": "synthesized in code (scripts/mix.py)", "license": "own work", "use": "final"},
+    {"path": "src/*.js", "source": "2D characters drawn in code as flat cards inside a procedural Three.js world", "license": "own work", "use": "final"}
+  ]
+}
